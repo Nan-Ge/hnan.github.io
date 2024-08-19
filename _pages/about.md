@@ -10,6 +10,15 @@ redirect_from:
   - /about.html
 ---
 
+Ph.D. Candidate, Shanghai Jiao Tong University (SJTU)
+Email: haonanwu@sjtu.edu.cn
+800 Dongchuan Road, SEIEE Building 3, Rm 126, Shanghai, China
+[Google scholar](https://scholar.google.com.hk/citations?user=C_D9mf8AAAAJ&hl=zh-CN&oi=sra)
+
+I am a fourth-year Ph.D. student at Shanghai Jiao Tong University. I'm supervised by Professors [Guangtao Xue](https://www.cs.sjtu.edu.cn/~xue-gt/) and [Yichao Chen](https://yichao0319.github.io/) from the MoSI Lab at the School of Electronic Information and Electrical Engineering (SEIEE). I received my B.S. in Network Engineering from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC). I am currently conducting a research internship in the Alibaba Cloud.
+
+My research interests include computer networks and storage, with a focus on high-performance networks and user-space protocol stacks.
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
