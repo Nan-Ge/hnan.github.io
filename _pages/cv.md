@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV at: [Haonan's CV](../assets/cv.pdf).
+You can find my CV at: [Haonan's CV](https://nan-ge.github.io/hnan.github.io/assets/cv.pdf).
 
 Education
 ======
