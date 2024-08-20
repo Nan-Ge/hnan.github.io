@@ -16,12 +16,12 @@ Education
 
 Research Experience
 ======
-* Alibaba Innovative Research (AIR) Project
+* [06/2022-Present] Alibaba Innovative Research (AIR) Project
   * Alibaba Cloud Elastic Block Storage Team
 
 Awards
 ======
-* 2019 National Scholarship (1.8%)
-* 2017-2019 Scholarship for Outstanding Students, First Prize (5%)
-* 2018 China Undergraduate Mathematical Contest in Modeling(CUMCM), Sichuan Province Second Prize
-* 2019 Mathematical Contest In Modeling (MCM/ICM), Honorable Mention
+* [2019] National Scholarship (1.8%)
+* [2017-2019] Scholarship for Outstanding Students, First Prize (5%)
+* [2018] China Undergraduate Mathematical Contest in Modeling(CUMCM), Sichuan Province Second Prize
+* [2019] Mathematical Contest In Modeling (MCM/ICM), Honorable Mention
