@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2022-infocom
 excerpt: 'Haonan Wu, Yi-Chao Chen, Guangtao Xue, Yuehu Jiang, Ming Wang, Shiyou Qian, Jiadi Yu, Pai-Yen Chen'
-date: 202-01-01
+date: 2022-01-01
 venue: 'INFOCOM'
 paperurl: 'http://academicpages.github.io/files/infocom22_wu.pdf'
 ---
