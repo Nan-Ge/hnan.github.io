@@ -2,7 +2,7 @@
 title: "Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios"
 collection: publications
 category: conferences
-permalink: /publication/2021-ubicomp.md
+permalink: /publication/2021-ubicomp
 date: 2021
 venue: 'UbiComp'
 paperurl: 'https://nan-ge.github.io/hnan.github.io/files/mimsvai21_wang.pdf'
