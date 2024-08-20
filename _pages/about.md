@@ -17,8 +17,6 @@ I am a fourth-year Ph.D. student at SJTU. I'm supervised by Professors [Guangtao
 
 My research interests include computer networks and storage, with a focus on high-performance intra-datacenter network and user-space protocol.
 
-You can find my CV here: [Dr Wu's Curriculum Vitae](https://nan-ge.github.io/hnan.github.io/assets/cv.pdf).
-
 # Publications
 [**OSDI 2024**] **Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk**; Zhongyu Wang, Yaheng Song, Erci Xu, **Haonan Wu**, Guangxun Tong, Shizhuo Sun, Haoran Li, Jincheng Liu, Lijun Ding, Rong Liu, Jiaji Zhu, Jiesheng Wu; in 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI'24, CCF-A)
 
