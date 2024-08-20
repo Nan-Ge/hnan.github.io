@@ -18,18 +18,10 @@ I am a fourth-year Ph.D. student at Shanghai Jiao Tong University. I'm supervise
 My research interests include computer networks and storage, with a focus on high-performance networks and user-space protocol stacks.
 
 # Publications
-[**OSDI**] Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk  
-Zhongyu Wang, Yaheng Song, Erci Xu, **Haonan Wu**, Guangxun Tong, Shizhuo Sun, Haoran Li, Jincheng Liu, Lijun Ding, Rong Liu, Jiaji Zhu, Jiesheng Wu  
-in 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24)
+[**OSDI 2024**] **Ransom Access Memories: Achieving Practical Ransomware Protection in Cloud with DeftPunk**; Zhongyu Wang, Yaheng Song, Erci Xu, **Haonan Wu**, Guangxun Tong, Shizhuo Sun, Haoran Li, Jincheng Liu, Lijun Ding, Rong Liu, Jiaji Zhu, Jiesheng Wu; in 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI'24, CCF-A)
 
-[**ATC**] Deploying user-space TCP at cloud scale with LUNA  
-Lingjun Zhu, Yifan Shen, Erci Xu, Bo Shi, Ting Fu, Shu Ma, Shuguang Chen, Zhongyu Wang, **Haonan Wu**, Xingyu Liao, Zhendan Yang, Zhongqing Chen, Wei Lin, Yijun Hou, Rong Liu, Chao Shi, Jiaji Zhu, Jiesheng Wu  
-in 2023 USENIX Annual Technical Conference (USENIX ATC 23)
+[**ATC 2023**] **Deploying user-space TCP at cloud scale with LUNA**; Lingjun Zhu, Yifan Shen, Erci Xu, Bo Shi, Ting Fu, Shu Ma, Shuguang Chen, Zhongyu Wang, **Haonan Wu**, Xingyu Liao, Zhendan Yang, Zhongqing Chen, Wei Lin, Yijun Hou, Rong Liu, Chao Shi, Jiaji Zhu, Jiesheng Wu; in 2023 USENIX Annual Technical Conference (USENIX ATC'23, CCF-A)
 
-[**INFOCOM**] OnionCode: enabling multi-priority coding in LED-based optical camera communications  
-**Haonan Wu**, Yi-Chao Chen, Guangtao Xue, Yuehu Jiang, Ming Wang, Shiyou Qian, Jiadi Yu, Pai-Yen Chen  
-in IEEE INFOCOM 2022-IEEE Conference on Computer Communications
+[**INFOCOM 2022**] **OnionCode: enabling multi-priority coding in LED-based optical camera communications**; **Haonan Wu**, Yi-Chao Chen, Guangtao Xue, Yuehu Jiang, Ming Wang, Shiyou Qian, Jiadi Yu, Pai-Yen Chen; in IEEE INFOCOM 2022-IEEE Conference on Computer Communications (INFOCOM'22, CCF-A)
 
-[**UBICOMP**] Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios  
-Yezhou Wang, Zhang Runting, **Haonan Wu**, Guangtao Xue  
-in Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers
+[**UBICOMP 2021**] **Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios**; Yezhou Wang, Zhang Runting, **Haonan Wu**, Guangtao Xue, in Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers (UbiComp'21, CCF-A)
