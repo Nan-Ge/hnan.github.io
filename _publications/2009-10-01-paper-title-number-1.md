@@ -1,5 +1,5 @@
 ---
-title: "Material Identification System with Sound Simulation Assisted Method in VR/AR Scenarios"
+title: "Material Identification System with Sound Simulation Assisted Method in VR AR Scenarios"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
