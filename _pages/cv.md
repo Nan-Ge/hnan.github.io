@@ -11,54 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [2020-Present] Ph.D candidate of computer secience and technology, School of Electronic Information and Electrical Engineeringin (SEIEE), Shanghai Jiao Tong University (SJTU)
+* [2016-2020] B.S. of Network Engineering, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Alibaba Innovative Research (AIR) Project
+  * Alibaba Cloud Elastic Block Storage Team
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019 National Scholarship (1.8%)
+* 2017-2019 Scholarship for Outstanding Students, First Prize (5%)
+* 2018 China Undergraduate Mathematical Contest in Modeling(CUMCM), Sichuan Province Second Prize
+* 2019 Mathematical Contest In Modeling (MCM/ICM), Honorable Mention
