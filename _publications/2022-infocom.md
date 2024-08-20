@@ -2,7 +2,7 @@
 title: "OnionCode: Enabling Multi-priority Coding in LED-based Optical Camera Communications"
 collection: publications
 category: conferences
-permalink: /publication/2022-infocom.md
+permalink: /publication/2022-infocom
 excerpt: 'Haonan Wu, Yi-Chao Chen, Guangtao Xue, Yuehu Jiang, Ming Wang, Shiyou Qian, Jiadi Yu, Pai-Yen Chen'
 date: 2022
 venue: 'INFOCOM'
