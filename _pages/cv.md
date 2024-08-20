@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV at: [Haonan's CV] (../assets/cv.pdf).
+
 Education
 ======
 * [2020-Present] Ph.D candidate of computer secience and technology, School of Electronic Information and Electrical Engineeringin (SEIEE), Shanghai Jiao Tong University (SJTU)
