@@ -3,6 +3,7 @@ title: "Material Identification System with Sound Simulation Assisted Method in 
 collection: publications
 category: conferences
 permalink: /publication/2021-ubicomp
+excerpt: 'Yezhou Wang, Zhang Runting, Haonan Wu, Guangtao Xue'
 date: 2021
 venue: 'UbiComp'
 paperurl: 'https://nan-ge.github.io/hnan.github.io/files/mimsvai21_wang.pdf'
